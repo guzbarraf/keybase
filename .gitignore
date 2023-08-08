@@ -136,6 +136,4 @@ sketch
 # End of https://www.toptal.com/developers/gitignore/api/node,react,phpstorm,vscode
 ###
 
-keybase*
-keybase*.*
-keybase.*
+keybase.txt
